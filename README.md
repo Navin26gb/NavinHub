@@ -1,2 +1,2 @@
 # NavinHub
-this is my first Git Repositry
+this is my first Git Repository
